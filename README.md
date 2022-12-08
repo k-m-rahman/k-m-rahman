@@ -22,7 +22,7 @@ I have the ability to adapt in both self-starting and collaborative environments
 `VsCode` `Vercel` `GitHub` `Netlify` `Chrome Dev Tool` `Figma` `Notepad++` `Codeblocks` `Netbeans` `MS Office`
 
 
-## <img height="40" src="https://lukonet.com/app/uploads/2014/09/statistic-loop.gif" > Overview
+## <img height="40" src="https://sercenabanacha.org.pl/wp-content/uploads/2022/07/a6c247e6667eebefee85d1e38803b446.gif" > Overview
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-rahman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
