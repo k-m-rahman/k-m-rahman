@@ -23,7 +23,7 @@ I have the ability to adapt in both self-starting and collaborative environments
 ## Overview
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-rahman&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-rahman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=k-m-rahman&show_icons=true&theme=radical)  
 
