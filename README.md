@@ -7,6 +7,8 @@ I have the ability to adapt in both self-starting and collaborative environments
 - 💬 Ask me about Web Development 
 - ⚡ Fun fact: I just love watching movies and series 
 
+## Contact Information
+
 [<img src='https://pics.freeicons.io/uploads/icons/png/16472142071530099325-512.png' alt='github' height='40'>](https://github.com/k-m-rahman)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/khandakar-mahmudur-rahman-58a4311b2/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039' alt='facebook' height='40'>](https://www.facebook.com/deaddrummerz)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622' alt='instagram' height='40'>](https://www.instagram.com/sourabh_rahmaan/) 
 
 ## Skills 
@@ -21,6 +23,6 @@ VsCode, Vercel, GitHub, Netlify, Chrome Dev Tool, Figma, Notepad++, Codeblocks, 
 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-rahman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-rahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/k-m-rahman)  
