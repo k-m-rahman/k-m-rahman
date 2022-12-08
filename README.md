@@ -27,4 +27,6 @@ I have the ability to adapt in both self-starting and collaborative environments
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=k-m-rahman&show_icons=true&theme=radical)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=k-m-rahman&show_icons=true&theme=radical)  
+
 ![Profile views](https://gpvc.arturio.dev/k-m-rahman)  
