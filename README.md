@@ -3,7 +3,7 @@
 
 I have the ability to adapt in both self-starting and collaborative environments while staying focused on achieving high quality results under strict deadlines. Proven experience developing consumer-focused websites using HTML5, CSS3, JavaScript, React.js, Tailwind, Bootstrap, Express.js, MongoDB. Eager to tackle web development challenges to gain lasting impacts on user experience.
 
-**Skills 
+##Skills 
 REACT / JS / HTML / CSS/ MongoDB/ Node JS/ Express JS/ Tailwind/ Bootstrap
 
 - 🌱 I’m currently learning JavaScript with React 
