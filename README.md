@@ -13,11 +13,11 @@ I have the ability to adapt in both self-starting and collaborative environments
 
 ## Skills 
 
-`JavaScript`, Ract.Js, Node.Js, HTML, CSS, MongoDB, Express.Js, Tailwind, Bootstrap, Firebase, ES6, C, Java, Python, C#
+`JavaScript` `Ract.Js` `Node.Js` `HTML` `CSS` `MongoDB` `Express.Js` `Tailwind` `Bootstrap` `Firebase` `ES6` `C` `Java` `Python` `C#`
 
 ## Tools
 
-VsCode, Vercel, GitHub, Netlify, Chrome Dev Tool, Figma, Notepad++, Codeblocks, Netbeans, MS Office
+`VsCode` `Vercel` `GitHub` `Netlify` `Chrome Dev Tool` `Figma` `Notepad++` `Codeblocks` `Netbeans` `MS Office`
 
 
 ## Overview
