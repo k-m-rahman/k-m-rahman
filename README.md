@@ -20,9 +20,11 @@ JavaScript, Ract.Js, Node.Js, HTML, CSS, MongoDB, Express.Js, Tailwind, Bootstra
 VsCode, Vercel, GitHub, Netlify, Chrome Dev Tool, Figma, Notepad++, Codeblocks, Netbeans, MS Office
 
 
-
+## Overview
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-rahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=k-m-rahman&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/k-m-rahman)  
