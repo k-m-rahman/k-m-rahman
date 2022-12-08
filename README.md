@@ -17,7 +17,7 @@ I have the ability to adapt in both self-starting and collaborative environments
 
 `JavaScript` `Ract.Js` `Node.Js` `HTML` `CSS` `MongoDB` `Express.Js` `Tailwind` `Bootstrap` `Firebase` `ES6` `C` `Java` `Python` `C#`
 
-## Tools
+## <img height="40" src="https://mymtmcare.com/assets/images/MTMWeb_About_3_Tools.gif" > Tools
 
 `VsCode` `Vercel` `GitHub` `Netlify` `Chrome Dev Tool` `Figma` `Notepad++` `Codeblocks` `Netbeans` `MS Office`
 
