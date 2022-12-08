@@ -5,7 +5,11 @@ I have the ability to adapt in both self-starting and collaborative environments
 
 ## Skills 
 
-REACT / JS / HTML / CSS/ MongoDB/ Node JS/ Express JS/ Tailwind/ Bootstrap
+JavaScript, Ract.Js, Node.Js, HTML, CSS, MongoDB, Express.Js, Tailwind, Bootstrap, Firebase, ES6, C, Java, Python, C#
+
+## Tools
+
+VsCode, Vercel, GitHub, Netlify, Chrome Dev Tool, Figma, Notepad++, Codeblocks, Netbeans, MS Office
 
 - 🌱 I’m currently learning JavaScript with React 
 - 💬 Ask me about Web Development 
