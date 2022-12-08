@@ -3,6 +3,10 @@
 
 I have the ability to adapt in both self-starting and collaborative environments while staying focused on achieving high quality results under strict deadlines. Proven experience developing consumer-focused websites using HTML5, CSS3, JavaScript, React.js, Tailwind, Bootstrap, Express.js, MongoDB. Eager to tackle web development challenges to gain lasting impacts on user experience.
 
+- 🌱 I’m currently learning JavaScript with React 
+- 💬 Ask me about Web Development 
+- ⚡ Fun fact: I just love watching movies and series 
+
 ## Skills 
 
 JavaScript, Ract.Js, Node.Js, HTML, CSS, MongoDB, Express.Js, Tailwind, Bootstrap, Firebase, ES6, C, Java, Python, C#
@@ -11,9 +15,6 @@ JavaScript, Ract.Js, Node.Js, HTML, CSS, MongoDB, Express.Js, Tailwind, Bootstra
 
 VsCode, Vercel, GitHub, Netlify, Chrome Dev Tool, Figma, Notepad++, Codeblocks, Netbeans, MS Office
 
-- 🌱 I’m currently learning JavaScript with React 
-- 💬 Ask me about Web Development 
-- ⚡ Fun fact: I just love watching movies and series 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/k-m-rahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khandakar-mahmudur-rahman-58a4311b2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/deaddrummerz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sourabh_rahmaan/)  
